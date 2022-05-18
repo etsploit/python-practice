@@ -1,3 +1,6 @@
+#created this to be used for comparing two list of IP addresses for example comparing a baseline inventory to a nessus vuln scan
+#hence the variable are about IPs
+
 import difflib
 
 #edit the path
